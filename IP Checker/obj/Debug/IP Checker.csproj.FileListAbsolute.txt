@@ -1,0 +1,11 @@
+C:\Users\muramoto\source\repos\IP Checker\IP Checker\obj\Debug\IP Checker.csproj.AssemblyReference.cache
+C:\Users\muramoto\source\repos\IP Checker\IP Checker\obj\Debug\IP Checker.csproj.SuggestedBindingRedirects.cache
+C:\Users\muramoto\source\repos\IP Checker\IP Checker\obj\Debug\IP_Checker.Form1.resources
+C:\Users\muramoto\source\repos\IP Checker\IP Checker\obj\Debug\IP_Checker.Properties.Resources.resources
+C:\Users\muramoto\source\repos\IP Checker\IP Checker\obj\Debug\IP Checker.csproj.GenerateResource.cache
+C:\Users\muramoto\source\repos\IP Checker\IP Checker\obj\Debug\IP Checker.csproj.CoreCompileInputs.cache
+C:\Users\muramoto\source\repos\IP Checker\IP Checker\bin\Debug\IP Checker.exe.config
+C:\Users\muramoto\source\repos\IP Checker\IP Checker\bin\Debug\IP Checker.exe
+C:\Users\muramoto\source\repos\IP Checker\IP Checker\bin\Debug\IP Checker.pdb
+C:\Users\muramoto\source\repos\IP Checker\IP Checker\obj\Debug\IP Checker.exe
+C:\Users\muramoto\source\repos\IP Checker\IP Checker\obj\Debug\IP Checker.pdb
